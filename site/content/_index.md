@@ -3,8 +3,12 @@ title: "Great coffee with a conscience"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Use A Developer??
+    text: "When  thinking about building a website, you may wonder whether it would be best to spend a couple thousand bucks on a website or just save the money and try it by yourself. When contemplating this decision, there are some key variables you should take a look at, including:
+    1. The amount of money that you are willing to spend
+    2. The amount of time you want to allocate for this project
+    3. The complexity that your current project has
+    4. The level of experience you have with building websites"
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
