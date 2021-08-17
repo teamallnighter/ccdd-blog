@@ -1,17 +1,13 @@
 ---
 title: "Great coffee with a conscience"
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: /img/coding-1.jpg
 blurb:
     heading: Why Use A Developer??
-    text: "When  thinking about building a website, you may wonder whether it would be best to spend a couple thousand bucks on a website or just save the money and try it by yourself. When contemplating this decision, there are some key variables you should take a look at, including:
-    1. The amount of money that you are willing to spend
-    2. The amount of time you want to allocate for this project
-    3. The complexity that your current project has
-    4. The level of experience you have with building websites"
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "When  thinking about building a website, you may wonder whether it would be best to spend a couple thousand bucks on a website or just save the money and try it by yourself. When contemplating this decision, there are some key variables you should take a look at, including:"
+time:
+    heading: "Saving Time"
+    text: "Building a website takes time. It is not a simple/easy process since you have to do extended planning of how your site is going to be laid out, the design that you are going to use, and the actual development of all its functionality. Hiring a professional developer will save you time because he will have experience, he will be organized, and he will go straight forward through a project without needing to look back."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
